@@ -1,8 +1,4 @@
 <script>
-	import Modal from './Modal.svelte'
-	import App from './App.svelte'
-	import Component1 from './Component1.svelte'
-	import Component2 from './Component2.svelte'
 	import Component3 from './Component3.svelte'
 
 	// initialise modal state and content
