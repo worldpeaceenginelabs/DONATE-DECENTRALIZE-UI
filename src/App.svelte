@@ -14,7 +14,7 @@
 		showModal = !showModal;
 	}
 		// Enter your apps name
-		let appname = "Cloud Atlas";
+		let appname = "(Your App's Name)";
 	// Enter your button texts
 	let button1 = "Donate Decentralize";
 	let button2 = "Selfhost Decentralize";
