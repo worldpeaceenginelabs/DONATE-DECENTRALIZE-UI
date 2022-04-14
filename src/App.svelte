@@ -21,10 +21,8 @@
 	let button3 = "Drop Support URL"
 </script>
 
-
-
-<div class="container">
-<strong class="font">Do you love {appname}? Donate a P2P tracker to make sure {appname} keeps running! For free or for 7$ monthly! Your donation goes 100% were it belongs to... </strong>
+<div>
+<strong>Do you love {appname}? Donate a P2P tracker to make sure {appname} keeps running! For free or for 7$ monthly! Your donation goes 100% were it belongs to... </strong>
 <button on:click={() => (toggleModal(Component1))}>
 	{button1}
 </button>
@@ -41,17 +39,4 @@
 {/if}
 
 <style>
-	/* The content inside the modal can be styled as usual	 */
-	.font {
-          padding: 0;
-          margin: 0;
-          font-family: "Libre Franklin", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-            Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-        }
-        * {
-          -webkit-font-smoothing: antialiased;
-          -moz-osx-font-smoothing: grayscale;
-          box-sizing: border-box;
-        }
-		.container {text-align: right ; background-color: lightgrey;}
 </style>
