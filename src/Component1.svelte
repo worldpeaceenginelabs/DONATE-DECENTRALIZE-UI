@@ -1,4 +1,28 @@
+<div>
+	<ol>
+		<li><button>
+			<a
+            href="https://heroku.com/deploy?template=https://github.com/draeder/p2p-tracker/tree/master"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Deploy Tracker</a>	
+		</button></li><br>
+		<li>Sign up and confirm the registration email (answer the questions with "i dont know" if you don't know.)<br><br>
+			Also choose a servername and your own region(you strengthen the connection in your own region, other donators in their region)</li>
+			<br><li><button on:click={() => (toggleModal(Component3))}>
+			Drop Support URL
+		</button>	 
+		</li>
+	
+	</ol>
+</div>
+
+{#if showModal}
+	<Modal on:click={toggleModal} {modalContent} />
+{/if}
+
 <script>
+	import Modal from './Modal.svelte'
 	import Component3 from './Component3.svelte'
 
 	// initialise modal state and content
@@ -11,23 +35,3 @@
 		showModal = !showModal;
 	}
 </script>
-
-<div>
-	<ol>
-		<li><button>
-			<a
-            href="https://heroku.com/deploy?template=https://github.com/draeder/p2p-tracker/tree/master"
-            target="_blank"
-            rel="noopener noreferrer"
-          >Deploy Tracker</a>	
-		</button></li>
-		<li>Sign up and confirm the registration email (answer the questions with "i dont know" if you like)
-			and choose a servername and your own region(you strengthen the connection in your own region, other donators in their region)</li>
-		<li><button on:click={() => (toggleModal(Component3))}>
-			Drop Support URL
-		</button>	 
-		</li>
-	
-	</ol>
-</div>
-
