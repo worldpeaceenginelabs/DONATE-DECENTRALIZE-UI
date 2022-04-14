@@ -22,7 +22,7 @@
 	}
 	
 	.content {
-		background-color: black;
+		background-color: white;
 		width: 20em;
 		height: 20em;
 	}
