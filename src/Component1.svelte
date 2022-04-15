@@ -7,7 +7,7 @@
             rel="noopener noreferrer"
           >Deploy Tracker</a>	
 		</button></li><br>
-		<li>Sign up and confirm the registration email (answer the questions with "i dont know" if you don't know.)<br><br>
+		<li>Sign up (answer the questions with "i dont know" if you don't know) and confirm the registration email. <br><br>
 			Also choose a servername and your own region(you strengthen the connection in your own region, other donators in their region)</li>
 			<br><li><button on:click={() => (toggleModal(Component3))}>
 			Drop Support URL

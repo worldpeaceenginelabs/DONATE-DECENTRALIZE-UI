@@ -9,5 +9,4 @@
 <script>
 	// Enter your apps name
 	let appname = "(Your App's Name)";
-
 </script>
