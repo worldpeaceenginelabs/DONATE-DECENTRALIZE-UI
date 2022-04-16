@@ -1,10 +1,12 @@
 <script>
+
 	export let modalContent;
+	export let appname;
 </script>
 
 <div on:click|self class='modal'>
 	<div class='content'>
-		<svelte:component on:click this={modalContent}/>
+		<svelte:component appname = {appname} on:click this={modalContent}/>
 	</div>
 </div>
 

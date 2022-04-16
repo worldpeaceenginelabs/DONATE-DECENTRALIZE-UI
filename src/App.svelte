@@ -1,7 +1,6 @@
 <script>
 	// Enter your apps name
-	let appname = "Your App's name";
-	setContext("name", appname);
+	let appname = "Your App's name"; 
 	// Enter your button texts
 	let button1 = "Donate Decentralize";
 	let button2 = "Selfhost Decentralize";
@@ -11,9 +10,6 @@
 	import Component1 from './Component1.svelte'
 	import Component2 from './Component2.svelte'
 	import Component3 from './Component3.svelte'
-	import {setContext} from "svelte"
-
-	
 
 	// initialise modal state and content
 	let showModal = false;
@@ -40,5 +36,5 @@
 </div>
 
 {#if showModal}
-	<Modal on:click={toggleModal} {modalContent}/>
+	<Modal appname={appname} on:click={toggleModal} {modalContent}/>
 {/if}
