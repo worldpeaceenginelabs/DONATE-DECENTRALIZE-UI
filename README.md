@@ -1,4 +1,4 @@
-# DONATE-DECENTRALIZE-UI (under development)
+# DONATE-DECENTRALIZE-UI (active development)
 
 A webcomponent which activates all your favourite decentralized stacks, and provides your fanbase and yourself, with a tracker donation feature, for your next new p2p or already existing centralized (website, app ,client, server, api) https://github.com/worldpeaceenginelabs/DONATE-DECENTRALIZE-UI
 <br><br><br>
