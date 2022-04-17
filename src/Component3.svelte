@@ -6,9 +6,9 @@
 	<input>
 	<button>Drop tracker URL</button>
 	<p>Thank you so much for supporting us.<br><br>
-	With your tracker donation,
+	With your tracker donation,<br>
 	 you are supporting the whole
-	  community of {appname} users actively.<br>
+	  community<br> of {appname} users actively.<br>
 </p>
 </div>
 
