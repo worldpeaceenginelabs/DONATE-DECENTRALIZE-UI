@@ -29,6 +29,7 @@ A (web)component which activates all your favourite decentralized stacks, and pr
 # Future Features
 
 - Different providers than Heroku
+- Different frameworks than Gun
 - exe for Windows desktop
 - appimage for Linux
 - apk for Android/IOS
