@@ -21,10 +21,10 @@
 
 # DONATE-DECENTRALIZE-UI (active development)
 
-A webcomponent which activates all your favourite decentralized stacks, and provides a tracker/relay donation feature to your fanbase, for your next new p2p or already existing but yet centralized (website, app ,client, server, api)
+A (web)component which activates all your favourite decentralized stacks, and provides a tracker/relay donation feature to your fanbase, for your next new p2p or already existing but yet centralized (website, app ,client, server, api)
 <br><br><br>
 
-![image](https://user-images.githubusercontent.com/67427045/162993317-9a45af4b-23ee-4a1d-97c4-37e05f1eb6ac.png)
+![image](https://user-images.githubusercontent.com/67427045/170871220-d541cef2-8922-4ba5-a549-f80acadb515b.png)
 
 # Future Features
 
