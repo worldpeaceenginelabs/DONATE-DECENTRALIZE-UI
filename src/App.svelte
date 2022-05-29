@@ -1,6 +1,6 @@
 <script>
 	// Enter your apps name
-	let appname = "Your App's name"; 
+	let appname = "MyP2Papp"; 
 	// Enter your button texts
 	let button1 = "Donate Decentralize";
 	let button2 = "Selfhost Decentralize";

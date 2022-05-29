@@ -2,7 +2,7 @@
 	<ol>
 		<li><button>
 			<a
-            href="https://www.heroku.com/deploy/?template=https://github.com/worldpeaceenginelabs/gun"
+            href="https://www.heroku.com/deploy/?template=https://github.com/amark/gun"
             target="_blank"
             rel="noopener noreferrer"
           >Deploy Tracker</a>	
