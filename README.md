@@ -1,10 +1,11 @@
 # GET STARTED
 #### This is a prototype which can deploy a 1-click Heroku Gun relay. Just css style it to your needs.
-## Donate Decentralize button (working)
-#### Deploy 1-click Heroku Gun relay, instruction for new Heroku users
-## Selfhost Decentralize (Mockup)
-#### Future features in development
-#### Update: Here is the executable desktop version of a gun relay https://github.com/worldpeaceenginelabs/gun-relay-desktop-win
+## Donate Decentralize
+#### Deploy 1-click Heroku Gun relay, instruction for new Heroku users (working)
+## Selfhost Decentralize
+#### Selfhost in your P2P Browser button (mockup, coming, see https://github.com/HybridWare/hybrid-browser)
+#### Selfhost on your own server button (repo and instruction, working)
+#### Download Windows Client (replace with your compiled exe from https://github.com/worldpeaceenginelabs/gun-relay-desktop-win)
 ## Drop Support URL (attention)
 #### You have to connect the "Drop Support URL" button in the file Component3.svelte with a service of your choice. 
 
