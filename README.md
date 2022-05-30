@@ -4,6 +4,7 @@
 #### Deploy 1-click Heroku Gun relay, instruction for new Heroku users
 ## Selfhost Decentralize (Mockup)
 #### Future features in development
+#### Update: Here is the executable desktop version of a gun relay https://github.com/worldpeaceenginelabs/gun-relay-desktop-win
 ## Drop Support URL (attention)
 #### You have to connect the "Drop Support URL" button in the file Component3.svelte with a service of your choice. 
 
