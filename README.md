@@ -5,7 +5,7 @@
 ## Selfhost Decentralize
 #### Selfhost in your P2P Browser button (mockup, coming, see https://github.com/HybridWare/hybrid-browser)
 #### Selfhost on your own server button (repo and instruction, working)
-#### Download Windows Client (replace with your compiled exe from https://github.com/worldpeaceenginelabs/gun-relay-desktop-win)
+#### Download Windows Client (replace with your compiled exe from https://github.com/worldpeaceenginelabs/gun-relay-desktop-win, working)
 ## Drop Support URL (attention)
 #### You have to connect the "Drop Support URL" button in the file Component3.svelte with a service of your choice. 
 
