@@ -1,5 +1,5 @@
 # GET STARTED
-#### This is a prototype which empowers your fanbase to deploy a Gun relay on multiple ways for your website/app. Just css style it to your needs.
+#### This is a prototype which empowers your fanbase to deploy a Gun relay on multiple ways to support your website/app. Just css style it to your needs.
 ## Donate Decentralize
 #### Deploy 1-click Heroku Gun relay, instruction for new Heroku users (working)
 ## Selfhost Decentralize
