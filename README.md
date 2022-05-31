@@ -32,6 +32,7 @@ A (web)component which activates all your favourite decentralized stacks, and pr
 
 - Different providers than Heroku
 - Different frameworks than Gun
-- exe for Windows desktop
+- Decentralize/Mishmesh (https://github.com/draeder/decentralize)
+
 - appimage for Linux
 - apk for Android/IOS
